@@ -1,0 +1,62 @@
+[
+    {
+        "package": "montagu",
+        "url": "https://github.com/vimc/montagu-r",
+        "branch": "master"
+    },
+    {
+        "package": "orderly",
+        "url": "https://github.com/vimc/ordrly",
+        "branch": "master"
+    },
+    {
+        "package": "orderly.rstudio",
+        "url": "https://github.com/vimc/orderly.rstudio",
+        "branch": "master"
+    },
+    {
+        "package": "vaultr",
+        "url": "https://github.com/vimc/vaultr",
+        "branch": "master"
+    },
+    {
+        "package": "jenner",
+        "url": "https://github.com/vimc/jenner",
+        "branch": "master"
+    },
+    {
+        "package": "orderly.server",
+        "url": "https://github.com/vimc/orderly.server",
+        "branch": "master"
+    },
+    {
+        "package": "orderlyweb",
+        "url": "https://github.com/vimc/orderlyweb",
+        "branch": "master"
+    },
+    {
+        "package": "orderly.sharepoint",
+        "url": "https://github.com/vimc/orderly.sharepoint",
+        "branch": "master"
+    },
+    {
+        "package": "beers",
+        "url": "https://github.com/mrc-ide/beers",
+        "branch": "master"
+    },
+    {
+        "package": "dettl",
+        "url": "https://github.com/vimc/dettl",
+        "branch": "master"
+    },
+    {
+        "package": "porcelain",
+        "url": "https://github.com/reside-ic/porcelain",
+        "branch": "master"
+    },
+    {
+        "package": "jsonvalidate",
+        "url": "https://github.com/ropensci/jsonvalidate",
+        "branch": "master"
+    }
+]
