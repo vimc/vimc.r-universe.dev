@@ -58,5 +58,10 @@
         "package": "jsonvalidate",
         "url": "https://github.com/ropensci/jsonvalidate",
         "branch": "master"
+    },
+    {
+        "package": "rrq",
+        "url": "https://github.com/mrc-ide/rrq",
+        "branch": "master"
     }
 ]
