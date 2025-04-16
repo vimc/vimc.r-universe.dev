@@ -63,5 +63,10 @@
         "package": "rrq",
         "url": "https://github.com/mrc-ide/rrq",
         "branch": "master"
+    },
+    {
+        "package": "vimclimate",
+        "url": "https://github.com/vimc/vimclimate",
+        "branch": "main"
     }
 ]
