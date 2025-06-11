@@ -68,5 +68,10 @@
         "package": "vimclimate",
         "url": "https://github.com/vimc/vimclimate",
         "branch": "main"
+    },
+    {
+        "package": "vimpact",
+        "url": "https://github.com/vimc/vimpact",
+        "branch": "master"
     }
 ]
