@@ -5,13 +5,8 @@
         "branch": "master"
     },
     {
-        "package": "orderly",
-        "url": "https://github.com/vimc/orderly",
-        "branch": "master"
-    },
-    {
-        "package": "orderly.rstudio",
-        "url": "https://github.com/vimc/orderly.rstudio",
+        "package": "orderly1",
+        "url": "https://github.com/vimc/orderly1",
         "branch": "master"
     },
     {
@@ -25,18 +20,8 @@
         "branch": "master"
     },
     {
-        "package": "orderly.server",
-        "url": "https://github.com/vimc/orderly.server",
-        "branch": "master"
-    },
-    {
         "package": "orderlyweb",
         "url": "https://github.com/vimc/orderlyweb",
-        "branch": "master"
-    },
-    {
-        "package": "orderly.sharepoint",
-        "url": "https://github.com/vimc/orderly.sharepoint",
         "branch": "master"
     },
     {
