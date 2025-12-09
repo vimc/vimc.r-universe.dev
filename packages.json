@@ -58,5 +58,10 @@
         "package": "vimpact",
         "url": "https://github.com/vimc/vimpact",
         "branch": "master"
+    },
+    {
+        "package": "vimcheck",
+        "url": "https://github.com/vimc/vimcheck",
+        "branch": "main"
     }
 ]
